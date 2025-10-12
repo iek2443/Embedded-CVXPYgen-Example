@@ -37,7 +37,7 @@ The core of the project is the Python script, which defines the problem and gene
 
 The Python script verifies the solver's mathematical correctness against three distinct scenarios:
 
-| Scenario | Input ($\mathbf{x}_{\text{curr}} \rightarrow \mathbf{x}_{\text{ref}}$) | Expected Result |
+| Scenario | Input | Expected Result |
 | :--- | :--- | :--- |
 | **1 (Overheated)** | $30.0^\circ\text{C} \rightarrow 20.0^\circ\text{C}$ | High Positive $\mathbf{u}$ (Maximum cooling effort) |
 | **2 (Slightly Warm)** | $23.0^\circ\text{C} \rightarrow 20.0^\circ\text{C}$ | Low Positive $\mathbf{u}$ (Precise cooling) |
