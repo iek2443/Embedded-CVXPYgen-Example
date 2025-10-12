@@ -1,0 +1,17 @@
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/cpg_example.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/cpg.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/edit_cache.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/rebuild_cache.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/list_install_components.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/install.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/install/local.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/CMakeFiles/install/strip.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/uninstall.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/scsdir.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/scsindir.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/edit_cache.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/rebuild_cache.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/list_install_components.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/install.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/install/local.dir
+/Users/iek/Desktop/py_project/Temperature_control_python_code/embedded_cooling_solver/c/build/solver_code/CMakeFiles/install/strip.dir
