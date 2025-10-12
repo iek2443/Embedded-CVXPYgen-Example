@@ -19,7 +19,7 @@ Constraints: $0 \le \mathbf{u} \le 10.0$
 
 ---
 
-## 2. Python Generation Script (`generate_solver.py`)
+## 2. Python Generation Script (`Temperature_control.py`)
 
 The core of the project is the Python script, which defines the problem and generates the C solver files into the **`embedded_cooling_solver`** directory.
 
