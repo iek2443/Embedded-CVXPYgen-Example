@@ -1,0 +1,12 @@
+../solver_code/linsys/external/amd/SuiteSparse_config.c:78:6:SuiteSparse_start	4	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:104:6:SuiteSparse_finish	4	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:113:7:SuiteSparse_malloc	40	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:142:7:SuiteSparse_calloc	40	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:178:7:SuiteSparse_realloc	48	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:243:7:SuiteSparse_free	16	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:305:6:SuiteSparse_tic	16	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:329:11:SuiteSparse_toc	40	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:346:11:SuiteSparse_time	32	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:361:5:SuiteSparse_version	16	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:396:11:SuiteSparse_hypot	48	static
+../solver_code/linsys/external/amd/SuiteSparse_config.c:446:5:SuiteSparse_divcomplex	88	static

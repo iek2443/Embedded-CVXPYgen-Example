@@ -1,0 +1,5 @@
+../solver_code/src/aa.c:36:9:aa_init	56	static
+../solver_code/src/aa.c:41:10:aa_apply	24	static
+../solver_code/src/aa.c:44:8:aa_safeguard	24	static
+../solver_code/src/aa.c:47:6:aa_finish	16	static
+../solver_code/src/aa.c:49:6:aa_reset	16	static

@@ -1,0 +1,7 @@
+../solver_code/src/util.c:10:6:_scs_tic	1
+../solver_code/src/util.c:12:11:_scs_tocq	1
+../solver_code/src/util.c:74:6:_scs_deep_copy_data	1
+../solver_code/src/util.c:85:6:_scs_deep_copy_stgs	3
+../solver_code/src/util.c:99:6:_scs_free_data	4
+../solver_code/src/util.c:113:6:_scs_free_sol	2
+../solver_code/src/util.c:123:6:scs_set_default_settings	1

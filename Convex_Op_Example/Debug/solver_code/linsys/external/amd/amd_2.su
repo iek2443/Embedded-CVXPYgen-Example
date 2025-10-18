@@ -1,0 +1,2 @@
+../solver_code/linsys/external/amd/amd_2.c:22:12:clear_flag	32	static
+../solver_code/linsys/external/amd/amd_2.c:42:13:amd_2	416	static

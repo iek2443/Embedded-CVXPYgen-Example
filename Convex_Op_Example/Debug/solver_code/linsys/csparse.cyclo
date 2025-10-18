@@ -1,0 +1,5 @@
+../solver_code/linsys/csparse.c:5:6:_scs_cs_spalloc	9
+../solver_code/linsys/csparse.c:21:6:_scs_cs_done	2
+../solver_code/linsys/csparse.c:28:6:_scs_cs_compress	7
+../solver_code/linsys/csparse.c:62:11:_scs_cumsum	4
+../solver_code/linsys/csparse.c:78:6:_scs_cs_spfree	2

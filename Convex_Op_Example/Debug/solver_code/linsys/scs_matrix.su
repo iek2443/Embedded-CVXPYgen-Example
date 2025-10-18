@@ -1,0 +1,11 @@
+../solver_code/linsys/scs_matrix.c:12:9:_scs_copy_matrix	24	static
+../solver_code/linsys/scs_matrix.c:40:9:_scs_validate_lin_sys	40	static
+../solver_code/linsys/scs_matrix.c:100:6:_scs_free_scs_matrix	16	static
+../solver_code/linsys/scs_matrix.c:109:25:apply_limit	16	static
+../solver_code/linsys/scs_matrix.c:116:13:compute_ruiz_mats	80	static
+../solver_code/linsys/scs_matrix.c:177:13:compute_l2_mats	72	static
+../solver_code/linsys/scs_matrix.c:240:13:rescale	40	static
+../solver_code/linsys/scs_matrix.c:307:13:_scs_normalize_a_p	48	static
+../solver_code/linsys/scs_matrix.c:386:6:_scs_accum_by_atrans	64	static
+../solver_code/linsys/scs_matrix.c:413:6:_scs_accum_by_a	72	static
+../solver_code/linsys/scs_matrix.c:431:6:_scs_accum_by_p	72	static

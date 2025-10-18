@@ -1,0 +1,15 @@
+../solver_code/linsys/cpu/direct/private.c:4:13:_scs_get_lin_sys_method	1
+../solver_code/linsys/cpu/direct/private.c:17:6:_scs_free_lin_sys_work	2
+../solver_code/linsys/cpu/direct/private.c:36:13:form_kkt	17
+../solver_code/linsys/cpu/direct/private.c:148:16:_ldl_init	1
+../solver_code/linsys/cpu/direct/private.c:154:16:ldl_prepare	4
+../solver_code/linsys/cpu/direct/private.c:182:16:ldl_factor	3
+../solver_code/linsys/cpu/direct/private.c:208:13:_ldl_perm	2
+../solver_code/linsys/cpu/direct/private.c:214:13:_ldl_permt	2
+../solver_code/linsys/cpu/direct/private.c:220:13:_ldl_solve	1
+../solver_code/linsys/cpu/direct/private.c:229:17:cs_pinv	4
+../solver_code/linsys/cpu/direct/private.c:243:13:cs_symperm	18
+../solver_code/linsys/cpu/direct/private.c:293:13:permute_kkt	4
+../solver_code/linsys/cpu/direct/private.c:323:6:_scs_update_lin_sys_diag_r	4
+../solver_code/linsys/cpu/direct/private.c:342:16:_scs_init_lin_sys_work	3
+../solver_code/linsys/cpu/direct/private.c:369:9:_scs_solve_lin_sys	1

@@ -1,0 +1,4 @@
+../DHT11/dht11.c:17:13:DHT11_Set_Pin_Output	40	static
+../DHT11/dht11.c:37:13:DHT11_Set_Pin_Input	40	static
+../DHT11/dht11.c:57:13:DHT11_Delay_us	16	static,ignoring_inline_asm
+../DHT11/dht11.c:76:6:Measure_DHT11	120	static

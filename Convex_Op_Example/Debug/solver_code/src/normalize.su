@@ -1,0 +1,5 @@
+../solver_code/src/normalize.c:27:6:_scs_normalize_b_c	48	static
+../solver_code/src/normalize.c:56:6:_scs_normalize_sol	48	static
+../solver_code/src/normalize.c:71:6:_scs_un_normalize_sol	48	static
+../solver_code/src/normalize.c:86:6:_scs_un_normalize_primal	40	static
+../solver_code/src/normalize.c:94:6:_scs_un_normalize_dual	40	static

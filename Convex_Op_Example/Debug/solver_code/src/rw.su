@@ -1,0 +1,11 @@
+../solver_code/src/rw.c:15:13:write_scs_cone	16	static
+../solver_code/src/rw.c:31:17:read_scs_cone	24	static
+../solver_code/src/rw.c:62:13:write_scs_stgs	24	static
+../solver_code/src/rw.c:82:21:read_scs_stgs	24	static
+../solver_code/src/rw.c:100:13:write_amatrix	24	static
+../solver_code/src/rw.c:109:19:read_amatrix	24	static
+../solver_code/src/rw.c:124:13:write_scs_data	24	static
+../solver_code/src/rw.c:138:17:read_scs_data	24	static
+../solver_code/src/rw.c:154:6:_scs_write_data	48	static
+../solver_code/src/rw.c:172:9:_scs_read_data	56	static
+../solver_code/src/rw.c:219:6:_scs_log_data_to_csv	48	static

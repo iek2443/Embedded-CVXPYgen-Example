@@ -1,0 +1,9 @@
+../solver_code/src/linalg.c:7:11:_scs_norm_diff	48	static
+../solver_code/src/linalg.c:17:11:_scs_norm_inf_diff	56	static
+../solver_code/src/linalg.c:34:6:_scs_scale_array	40	static
+../solver_code/src/linalg.c:41:11:_scs_dot	40	static
+../solver_code/src/linalg.c:51:11:_scs_norm_sq	32	static
+../solver_code/src/linalg.c:61:11:_scs_norm_2	16	static
+../solver_code/src/linalg.c:65:11:_scs_norm_inf	48	static
+../solver_code/src/linalg.c:78:6:_scs_add_scaled_array	56	static
+../solver_code/src/linalg.c:86:11:_scs_mean	32	static
